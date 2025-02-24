@@ -3,17 +3,8 @@ title: GalapaGh0st's Site
 draft: false
 tags:
 ---
-Really my name is Alex, a Solution's Engineer, and I am using this to keep access to my notes online.
+Really my name is Alex, a Solution's Engineer, and I am using this to keep access to my notes online for what I am currently working on. Which happens to be this Offensive Security Alternative to College that currently looks something like this:
 
-Currently what I am working on is a Offensive Security alternative to college that currently looks something like this:
+![[Competency_pentesting_School.png]]
 
-Year 1 - Web App Exploitation - Certifications
-HOWE -> PWPA -> PWPP -> CBBH -> CWEE
-
-Year 2 - Network Penetration - Certifications
-PJPT -> PORP -> PNPT -> CPTS -> CAPE
-
-Year 3 - Offsec Certs - What we know
-OSCP -> OSEP -> OSWA -> OSWE
-
-Year 4 - Achieving OSCE3
+I am working on this with my monthly education budget while my wife goes to college. I might go to college after this who knows. Its a bit redundant and in no way is to land a job. I want that shiny coin and to collect certifications.
