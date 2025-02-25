@@ -7,12 +7,17 @@ tags:
   - domains
 ---
 ## Summary
-When conducting recon we should grab the apex domains and then those Apex's sub domains that are within scope. These will give us multiple different places to look for vulnerabilities. [[crt.sh ]] a
+When conducting recon we should grab the apex domains and then those Apex's sub domains that are within scope. These will give us multiple different places to look for vulnerabilities. 
 
 
-## Examples
 
-#### Grabbing Domains Easily
+## Tools
+
+### CRT.sh
+
+#### Examples
+
+##### Grabbing Domains Easily
 
 This following bash script should be saved as a command. However, it allows you to call to crt.sh with the domain given.
 ```bash
@@ -30,7 +35,7 @@ cat file.txt | rev | cut -d *.* -f 1,2 | rev | sort -u > newfile.txt
 ```
 
 
-
+### Subfinder
 
 
 
