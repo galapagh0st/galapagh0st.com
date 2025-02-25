@@ -9,8 +9,6 @@ tags:
 ## Summary
 When conducting recon we should grab the apex domains and then those Apex's sub domains that are within scope. These will give us multiple different places to look for vulnerabilities. 
 
-
-
 ## Tools
 
 ### CRT.sh
