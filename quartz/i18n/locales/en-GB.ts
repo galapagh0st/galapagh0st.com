@@ -33,7 +33,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "This site is the digital notebook of Alex Costa AKA GalapaGh0st \nCreated with",
+      createdWith: "Created with",
     },
     graph: {
       title: "Graph View",
