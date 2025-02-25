@@ -1,5 +1,5 @@
 ---
-title: crt.sh
+title: Getting Domains
 draft: false
 tags:
   - crtsh
