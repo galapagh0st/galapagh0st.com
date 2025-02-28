@@ -27,13 +27,13 @@ tags:
 
 ### WEEK 3&4: Information Gathering (~2 week)
 
-- [ ] Hackinghub
-    - [ ] Recon
-- [ ] TCM
-    - [ ] Bug Bounty
-        - [ ] Recon and Information Gathering
-- [ ] Book
-    - [ ] Chapter 5
+- [x] Hackinghub
+    - [x] Recon
+- [x] TCM
+    - [x] Bug Bounty
+        - [x] Recon and Information Gathering
+- [x] Book
+    - [x] Chapter 5
 - [ ] HTB
     - [ ] Information Gathering Web Edition
     - [ ] Attacking Web Applications with Ffuf
