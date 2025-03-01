@@ -35,7 +35,7 @@ tags:
 - [x] Book
     - [x] Chapter 5
 - [ ] HTB
-    - [ ] Information Gathering Web Edition
+    - [x] Information Gathering Web Edition
     - [ ] Attacking Web Applications with Ffuf
 
 ### WEEK 5: Writing Reports / Bug Bounty Process (~1 week)
