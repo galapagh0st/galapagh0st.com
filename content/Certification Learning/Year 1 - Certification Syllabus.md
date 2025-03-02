@@ -34,9 +34,9 @@ tags:
         - [x] Recon and Information Gathering
 - [x] Book
     - [x] Chapter 5
-- [ ] HTB
+- [x] HTB
     - [x] Information Gathering Web Edition
-    - [ ] Attacking Web Applications with Ffuf
+    - [x] Attacking Web Applications with Ffuf
 
 ### WEEK 5: Writing Reports / Bug Bounty Process (~1 week)
 
