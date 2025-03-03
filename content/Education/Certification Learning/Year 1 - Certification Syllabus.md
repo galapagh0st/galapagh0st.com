@@ -40,12 +40,12 @@ tags:
 
 ### WEEK 5: Writing Reports / Bug Bounty Process (~1 week)
 
-- [ ] Hackinghub
-    - [ ] Resources
-- [ ] TCM
-    - [ ] Bug Bounty
-        - [ ] Before we attack
-        - [ ] Reporting
+- [x] Hackinghub
+    - [x] Resources
+- [x] TCM
+    - [x] Bug Bounty
+        - [x] Before we attack
+        - [x] Reporting
 - [ ] Book
     - [ ] Part 1
 - [ ] HTB
