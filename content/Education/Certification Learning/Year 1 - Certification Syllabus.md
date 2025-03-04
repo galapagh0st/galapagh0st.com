@@ -65,8 +65,8 @@ tags:
     - [x] XSS / JavaScript Injection section
 - [x] [HTB](https://academy.hackthebox.com/module/103/section/965)
     - [x] Cross-Site Scripting (XSS) Module
-    - [ ] Javascript Deobfuscation
-- [ ] [Flashcards - XSS](https://www.brainscape.com/l/study?classes=22641296-18098976&type=progressive)
+    - [x] Javascript Deobfuscation
+- [x] [Flashcards - XSS](https://www.brainscape.com/l/study?classes=22641296-18098976&type=progressive)
 
 ### SQL Injection (~2 weeks)
 
