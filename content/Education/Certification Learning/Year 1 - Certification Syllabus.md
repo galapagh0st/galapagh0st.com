@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Term 1
-### WEEK 1 and 2: Before Security (~2 weeks)
+### Before Security (~2 weeks)
 
 - [x] Hackinghub
     - [x] Introduction section
@@ -25,7 +25,7 @@ tags:
     - [x] Introduction to Web Applications Module
     - [x] Using Web Proxies Module
 
-### WEEK 3&4: Information Gathering (~2 week)
+### Information Gathering (~2 week)
 
 - [x] Hackinghub
     - [x] Recon
@@ -38,7 +38,7 @@ tags:
     - [x] Information Gathering Web Edition
     - [x] Attacking Web Applications with Ffuf
 
-### WEEK 5: Writing Reports / Bug Bounty Process (~1 week)
+### Writing Reports / Bug Bounty Process (~1 week)
 
 - [x] Hackinghub
     - [x] Resources
@@ -46,12 +46,12 @@ tags:
     - [x] Bug Bounty
         - [x] Before we attack
         - [x] Reporting
-- [ ] Book
-    - [ ] Part 1
-- [ ] HTB
-    - [ ] Bug Bounty Hunting Process
+- [x] Book
+    - [x] Part 1
+- [x] HTB
+    - [x] Bug Bounty Hunting Process
 
-### WEEK 6 AND 7: XSS (~2 weeks)
+### XSS (~2 weeks)
 
 - [x] Hackinghub
     - [x] Watch all the videos in the Client Side Vulnerabilities up to CSRF
@@ -67,6 +67,24 @@ tags:
     - [x] Cross-Site Scripting (XSS) Module
     - [ ] Javascript Deobfuscation
 - [ ] [Flashcards - XSS](https://www.brainscape.com/l/study?classes=22641296-18098976&type=progressive)
+
+### SQL Injection (~2 weeks)
+
+- [ ] Hackinghub
+    - [ ] [SQL Injection Module](https://app.hackinghub.io/hubs/nbbc-sqli)
+- [ ] TCM
+    - [ ] Bug Bounty
+        - [ ] SQL Injection Videos
+    - [ ] Practical Web Hacking
+        - [ ] SQL Section
+- [ ] Book
+    - [ ] Chapter 11 - SQL Injection
+- [ ] Portswigger
+    - [ ] SQL Injection
+- [ ] HTB
+    - [ ] SQL Injection Fundamentals
+    - [ ] SQLMap Fundamentals
+
 
 ### WEEK 8, 9, and 10: CSRF, CORS, Open Redirects (~3 weeks)
 
@@ -116,24 +134,6 @@ tags:
     - [ ] Login Brute Forcing
     - [ ] Broken Authentication
     - [ ] [HTB - File Upload Attacks](https://academy.hackthebox.com/module/details/136)
-
-### Week 15 and 16: SQL Injection (~2 weeks)
-
-- [ ] Hackinghub
-    - [ ] [SQL Injection Module](https://app.hackinghub.io/hubs/nbbc-sqli)
-- [ ] TCM
-    - [ ] Bug Bounty
-        - [ ] SQL Injection Videos
-    - [ ] Practical Web Hacking
-        - [ ] SQL Section
-- [ ] Book
-    - [ ] Chapter 11 - SQL Injection
-- [ ] Portswigger
-    - [ ] SQL Injection
-- [ ] HTB
-    - [ ] SQL Injection Fundamentals
-    - [ ] SQLMap Fundamentals
-
 
 ## ~~~~~ Everything past this is in Development ~~~~~
 
