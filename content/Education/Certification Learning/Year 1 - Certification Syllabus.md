@@ -77,8 +77,8 @@ tags:
         - [ ] SQL Injection Videos
     - [ ] Practical Web Hacking
         - [ ] SQL Section
-- [ ] Book
-    - [ ] Chapter 11 - SQL Injection
+- [x] Book
+    - [x] Chapter 11 - SQL Injection
 - [ ] Portswigger
     - [ ] SQL Injection
 - [ ] HTB
